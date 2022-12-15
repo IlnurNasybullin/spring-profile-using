@@ -1,0 +1,4 @@
+rootProject.name = 'spring-profile-using'
+include 'commons'
+include 'server'
+
